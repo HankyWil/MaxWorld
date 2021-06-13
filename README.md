@@ -1,2 +1,0 @@
-# MaxWorld
-Project webpage
